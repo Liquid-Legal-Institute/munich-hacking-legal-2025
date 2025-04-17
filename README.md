@@ -6,4 +6,6 @@ You’ll work in mixed teams, collaborate with experts, and create cutting-edge 
 
 Join us to make real impact and transform the legal world with technology!
 
+See the official website at [MUNICH HACKING LEGAL. Code. Create. Collaborate.](https://www.hacking-legal.org/hacking-legal)
+
 ![Munich Hacking Legal24 (1)](https://github.com/user-attachments/assets/6848c46c-146a-47c4-af70-3ee1150188ce)
